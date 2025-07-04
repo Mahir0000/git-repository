@@ -1,1 +1,2 @@
 "HI I am vishal , this is my first git repo, its my pleasure to do this"
+I am making this changes 
